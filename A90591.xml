@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Petjtion [sic] of the inhabitants of the city of Westminster with the libertie of the Duchie of Lancaster. Together with the answer of the House of Peers to the said petition, delivered by the Lord Kimbolton, Earle of Manchester, the 20 of December, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90591</idno><idno type="EEBO-CITATION">99859049</idno>
+  <idno type="VID">111110</idno>
+  <idno type="EEBO-PROQUEST">2248513447</idno>
+  
+            <idno type="STC">Wing P1804</idno>
+            <idno type="STC">Thomason E83_16</idno>
+            <idno type="STC">ESTC R1150</idno>
+            <idno type="PROQUEST">99859049</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859049e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111110)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Petjtion [sic] of the inhabitants of the city of Westminster with the libertie of the Duchie of Lancaster. Together with the answer of the House of Peers to the said petition, delivered by the Lord Kimbolton, Earle of Manchester, the 20 of December, 1642.</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Humphry Tuckey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb. 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Manchester, Edward Montagu, --  Earl of, 1602-1671 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Lords --  Early works to 1800.</term>
+               <term type="geographic_name">Westminster (London, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111110:1"/>
+            <pb facs="tcp:111110:1"/>
+            <p>THE PETITION Of the Inhabitants of the City of <hi>Westminster</hi> with the Libertie of the Duchie of <hi>Lancanster.</hi>
+            </p>
+            <p>TOGETHER VVith the answer of the House of Peers to the said Petition, deli<g ref="char:EOLhyphen"/>vered by the Lord <hi>Kimbolton,</hi> Earle of <hi>Manchester,</hi> the 20 of <hi>December, 1642.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Humphry Tuckey, 1642.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:111110:2"/>
+            <pb n="1" facs="tcp:111110:2"/>
+            <head>To the Right Honorable the Lords and Commons assembled in Parliament.</head>
+            <argument>
+               <p>The humble Petition of the Inhabitants of the City and Liberty of <hi>Westminster</hi> and Dutchy of <hi>Lancaster.</hi>
+               </p>
+            </argument>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners being sen<g ref="char:EOLhyphen"/>sible of the miserable effects of Warre, and the Ruine and De<g ref="char:EOLhyphen"/>solation that will unavoidably overwhelme this miserable Kingdom, now distracted and much divided, and ingaged in an unnaturall inte<g ref="char:EOLhyphen"/>stine and bloudy Warre, and in their owne par<g ref="char:EOLhyphen"/>ticulars having already tasted of some part of those Miseries, by the death of some of their neerest and dearest Friends, and great Losses in their Callings: And also taking into consideration the lamenta<g ref="char:EOLhyphen"/>ble and miserable effects that the late unhappy Civile Warres have produced in <hi>Germany,</hi> and by
+<pb n="2" facs="tcp:111110:3"/> the present Rebellion in <hi>Ireland;</hi> And that if this War and dissention shall still continue in <hi>England,</hi> the same will not only greatly prejudice, but also hazard the Religion, Estates, Lives, and Liberties of their poore distressed Brethren in that King<g ref="char:EOLhyphen"/>dome, that they cannot but seeke Peace (the onely Cure of their Miseries both by their Prayers to God, and in their humble Petitions to this Ho<g ref="char:EOLhyphen"/>nourable Assembly, (desiring your concurrence with the House of Commons) to whom they are bold to make their humble addresses.</p>
+            <p>Wherefore the Petitioners most humbly and heartily beseech you to take into your most Ho<g ref="char:EOLhyphen"/>nourable consideration the miserable▪ estate of this Kingdome, in which your Petitioners Cala<g ref="char:EOLhyphen"/>mities are involved, and thereby (if it be possible) to prevent the further Miseries thereof, and the effusion of more Christian Blood, by a speedy, sea<g ref="char:EOLhyphen"/>sonable, and happy Accōmodation between H<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> gracious Majesty and both Houses of Parliament; wherein they doubt not but you will, to the glo<g ref="char:EOLhyphen"/>ry of God, settle the true Protestant Religion in the puri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie thereof, as in the best times since the Reformation, against all Papists, Sectaries, and
+<pb n="3" facs="tcp:111110:3"/> Schismaticks, that shall endeavour to opp<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it, to restraine all prophannesse of the Lords Day, and establish the orderly Worship of God in his House, and to provide for the preservation of the Person and Honour of his sacred Majesty, the upholding of the just Rights and Priviledges of Parliament, and the present and seasonable set<g ref="char:EOLhyphen"/>ling of the Peace of the Kingdome, whereby they may enjoy the benefit of the Lawes (the great Protector) of their Lives, Liberties, and Pro<g ref="char:EOLhyphen"/>perties.</p>
+            <closer>And they shall pray, that the God of Peace will blesse you in this worke of Peace.</closer>
+         </div>
+         <div type="response_to_petitioners">
+            <pb n="4" facs="tcp:111110:4"/>
+            <head>An answer of the house of Peeres to the Petition of <hi>Westminster,</hi> and the Duchy of <hi>Lancaster,</hi> delivered by the Lord <hi>Kim<g ref="char:EOLhyphen"/>bolton,</hi> Earle of <hi>Manchester,</hi> the 20 of <hi>December, 1642.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am commanded by the Lords to let you know that they have▪ conside<g ref="char:EOLhyphen"/>red your Petition, and that they do very well accept of it, and as for the subject and matter of it, I am bid to tell you, that all along this Parliament, it hath bin one of their mayn endevours to preserve a peace through the whole King<g ref="char:EOLhyphen"/>dome, by all the best meanes they could, and for an accommodation
+<pb n="5" facs="tcp:111110:4"/> with his Majesty, they have long endeavoured by all good ways to obtain it, and at this present they are preparing Propositions to His Majesty for the very same pur<g ref="char:EOLhyphen"/>pose, which they hope will be a<g ref="char:EOLhyphen"/>greeable to His Majesty, and satis<g ref="char:EOLhyphen"/>fie the Kingdome, and for your de<g ref="char:EOLhyphen"/>sire to communicate your Petition with the House of Commons, they bid me tell you they wil doe it, and thereunto you shall receive an an<g ref="char:EOLhyphen"/>swer in due convenient time.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
